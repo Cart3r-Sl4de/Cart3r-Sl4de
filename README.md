@@ -4,7 +4,14 @@
 
 ## 🚀 About Me
 - I am currently studying for a B.S. in Cybersecurity, and whenever possible I also study for the CPTS from Hack the Box.
-- My certifications: Comptia A+, Project+, Network+, Security+; LPI Linux Essentials.
+- My certifications:
+    - Comptia:
+      - A+
+      - Project+
+      - Network+
+      - Security+
+    - LPI Linux Essentials
+    - SSCP from ISC2
 - I endeavor to be a purple teamer in the scheme of Cybersecurity, because understanding red teaming can help one understand how to be a capable part of blue teaming.
 - I have over 10 years experience with programming.
 
