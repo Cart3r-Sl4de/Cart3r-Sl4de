@@ -11,7 +11,7 @@
       - Network+
       - Security+
     - LPI Linux Essentials
-    - SSCP from ISC2
+    - ISC2 SSCP
 - I endeavor to be a purple teamer in the scheme of Cybersecurity, because understanding red teaming can help one understand how to be a capable part of blue teaming.
 - I have over 10 years experience with programming.
 
