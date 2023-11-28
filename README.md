@@ -10,10 +10,11 @@
       - Project+
       - Network+
       - Security+
+      - CySA+
     - LPI Linux Essentials
     - ISC2 SSCP
 - I endeavor to be a purple teamer in the scheme of Cybersecurity, because understanding red teaming can help one understand how to be a capable part of blue teaming.
-- I have over 10 years experience with programming.
+- I have 10 years experience with programming.
 
 
 ## 🛠 Skills
