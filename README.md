@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-- I am currently studying for a B.S. in Cybersecurity, and whenever possible I also study for the CPTS from Hack the Box.
+- I recently earned a B.S. in Cybersecurity, and whenever possible I also study for the CPTS from Hack the Box.
 - My certifications:
     - Comptia:
       - A+
