@@ -11,6 +11,7 @@
       - Network+
       - Security+
       - CySA+
+      - Pentest+
     - LPI Linux Essentials
     - ISC2 SSCP
 - I endeavor to be a purple teamer in the scheme of Cybersecurity, because understanding red teaming can help one understand how to be a capable part of blue teaming.
