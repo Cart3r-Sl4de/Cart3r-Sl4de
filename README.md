@@ -21,6 +21,7 @@
 ## 🛠 Skills
 - Python
 - Go
+- Have had experience with C++
 - Early level web development knowledge with Django, CSS, HTML
 - Program optimization and pattern recognition
 
